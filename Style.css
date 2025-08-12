@@ -1,0 +1,34 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+
+p{
+    font-size: 15px;
+     color: white;
+     text-align: left;
+     
+}
+
+ #heading-one {
+    font-size: 50px;
+    color: greenyellow;
+    
+ }
+
+ .text-highlight {
+    background-color: maroon;
+    border: 1px solid black;
+    padding: 15px;
+    margin: 20px;
+ }
+
+ * {
+     font-family: Arial, sans-serif;
+    font-size: 30px;
+    font-weight: 300; /* lighter weight */
+    text-align: left;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    line-height: 2.5;
+ }
